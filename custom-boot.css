@@ -780,12 +780,12 @@ progress {
 }
 @media (min-width: 1600px) {
   .container-xxxl, .container-xxl, .container-xl, .container-lg, .container-md, .container-sm, .container {
-    max-width: 1520;
+    max-width: 1520px;
   }
 }
 @media (min-width: 1800px) {
   .container-xxxxl, .container-xxxl, .container-xxl, .container-xl, .container-lg, .container-md, .container-sm, .container {
-    max-width: 1720;
+    max-width: 1720px;
   }
 }
 :root {
